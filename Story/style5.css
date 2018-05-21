@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(153, 255, 255);
+}
+
+  h1 {
+    color: rgb(140, 91, 51);
+    text-align: center;
+    font-family: 'Chicle' , cursive;
+    background-color: rgb(19, 236, 236);
+
+  }
+
+table {
+  border: 5px solid rgb(255, 153, 51);
+  font-family: 'Chicle' , cursive;
+  border-spacing: 5px;
+  text-align: center;
+}
+
+ td {
+   border: 5px solid rgb(255, 179, 102);
+ }
+
+ tr{
+   color: rgb(124, 239, 104);
+ }
+ <style>
+link {
+  color: rgb(124, 239, 104);
+}
+</style>
